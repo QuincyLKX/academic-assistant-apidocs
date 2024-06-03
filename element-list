@@ -1,0 +1,8 @@
+com.academic_assistant
+com.academic_assistant.controller
+com.academic_assistant.entity
+com.academic_assistant.repository
+com.academic_assistant.service
+com.academic_assistant.util
+com.academic_assistant.util.SQLData
+com.academic_assistant.webSocket
